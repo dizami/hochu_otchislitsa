@@ -3,6 +3,7 @@ package ru.krista.example;
 import java.util.Scanner;
 
 public class Calculator {
+    //peremenie
     private Integer num1 = 0;
     private Integer num2 = 0;
     private Integer result = 0;
